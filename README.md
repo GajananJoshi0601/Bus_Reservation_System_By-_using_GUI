@@ -37,8 +37,6 @@ make</code></pre>
 
   <h2>File Structure</h2>
     <ul>
-        <li><code>main.c</code>: Entry point of the application, initializing the GUI components.</li>
-        <li><code>gui.c</code>: Manages the user interface interactions.</li>
         <li><code>routes.c</code>: Handles bus route data and availability checks.</li>
         <li><code>booking.c</code>: Manages ticket booking logic and passenger data storage.</li>
         <li><code>passengers_data.txt</code>: Stores passenger details for booked tickets.</li>
