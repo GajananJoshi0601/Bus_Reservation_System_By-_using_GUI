@@ -48,13 +48,13 @@ make</code></pre>
 <p>Here are some screenshots showcasing the main features of our Bus_Reservation_System</p>
 
 <p align="center">
-    <img src="/SS/ss-1.jpg" alt="Home Page" width="400">
+    <img src="/SS/ss-1.png" alt="Home Page" width="400">
     <br>
     <em>User Interface</em>
 </p>
 
 <p align="center">
-    <img src="/SS/ss-2.jpg" alt="Generated Name" width="400">
+    <img src="/SS/ss-2.png" alt="Generated Name" width="400">
     <br>
     <em>Login-Successful ..</em>
 </p>
